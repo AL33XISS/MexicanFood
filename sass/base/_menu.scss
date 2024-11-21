@@ -1,0 +1,32 @@
+.tituloSeccionMenu {
+  background-color: $color-principal;
+  border-bottom: 2px solid yellow;
+  
+    h1 {
+      font-family: Honk, serif;
+    } 
+}
+  
+.seccionesMenu {
+  font-family: Sixtyfour Convergence, serif;
+  }
+  
+.card {
+  background-color: $color-alternativo;
+}
+  
+.card-title {
+  font-family: Honk, serif;
+  font-size: 30px;
+}
+  
+.card-text {
+  font-family: Silkscreen, serif;
+}
+  
+.precios {
+  font-family: Honk, serif;
+  font-size: 30px;
+  text-align: end;
+}
+
