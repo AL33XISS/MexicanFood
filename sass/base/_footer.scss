@@ -13,6 +13,9 @@
 .imgRS {
   width: 40px;
   height: 40px;
+  transition: all 0.2s ease-in-out;
+
+  &:hover{transform: scale(1.1);}
 }
 
 .redesSociales a {
