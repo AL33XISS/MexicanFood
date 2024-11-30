@@ -1,0 +1,34 @@
+.bienvenida {
+  background-color: $color-principal;
+  border-bottom: 2px solid yellow;
+}
+  
+.tituloSeccionInicio {
+  color: $color-alternativo;
+  font-family: Honk, serif;
+}
+  
+.esloganBienvenida {
+  color: $color-texto;
+  font-family: Silkscreen, serif;
+}
+  
+.slide img {
+  height: 80vh;
+}
+  
+.descripciones {
+
+  h3 {
+    font-family: Honk, serif;
+  }
+
+  p {
+    color: $color-texto;
+    font-family: Silkscreen, serif;
+  }
+}
+  
+
+
+  
